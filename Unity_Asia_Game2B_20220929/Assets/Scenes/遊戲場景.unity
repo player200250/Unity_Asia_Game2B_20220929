@@ -1292,7 +1292,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabExplosion: {fileID: 1943478086048807690, guid: f226134f5ec0f884f8c338e5aec1d8a7, type: 3}
-  nameTarget: "\u6575\u6A5F"
+  nameTarget: "\u6575\u6A5F\u5C04\u64CA"
 --- !u!1001 &1018877321
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2804,6 +2804,26 @@ PrefabInstance:
       propertyPath: pointSpawn
       value: 
       objectReference: {fileID: 1276206457}
+    - target: {fileID: 318070591466067203, guid: e9792ae97f1fd094787ea68422a3a58e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7034987
+      objectReference: {fileID: 0}
+    - target: {fileID: 318070591466067203, guid: e9792ae97f1fd094787ea68422a3a58e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 318070591466067203, guid: e9792ae97f1fd094787ea68422a3a58e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 318070591466067203, guid: e9792ae97f1fd094787ea68422a3a58e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.71069664
+      objectReference: {fileID: 0}
+    - target: {fileID: 318070591466067203, guid: e9792ae97f1fd094787ea68422a3a58e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90.583
+      objectReference: {fileID: 0}
     - target: {fileID: 1225088064114453229, guid: e9792ae97f1fd094787ea68422a3a58e, type: 3}
       propertyPath: m_RootOrder
       value: 0
